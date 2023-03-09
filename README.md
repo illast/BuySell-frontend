@@ -1,7 +1,7 @@
 ## What's this?
-**Frontend** project for a [website](http://buysell.hopto.org) where people can sell their own products, as well as buy, comment and rate other people's products. \
+**Frontend** project for a website where people can sell their own products, as well as buy, comment and rate other people's products. \
 \
-See also [backend](https://gitlab.cs.ttu.ee/alpari/iti0302-2022-server).
+See also [backend](https://github.com/illast/BuySell-backend).
 
 ## Technologies for development
 - **Npm**, to download, install modules required for the project and also to start the project itself
