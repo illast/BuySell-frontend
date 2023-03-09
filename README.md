@@ -15,8 +15,6 @@ See also [backend](https://github.com/illast/BuySell-backend).
 4. In the same folder type ```npm run serve```
 5. In a browser go to http://localhost:8080
 
-*when cloning from gitlab for the first time
-
 ## Deploying
  Build docker image for deployment
  ```
